@@ -121,10 +121,6 @@
     <value>Lastname</value>
     <comment>Vezetéknév</comment>
   </data>
-  <data name="String2" xml:space="preserve">
-    <value>Firstname</value>
-    <comment>Keresztnév</comment>
-  </data>
   <data name="String3" xml:space="preserve">
     <value>Add</value>
     <comment>Hozzáadás</comment>
